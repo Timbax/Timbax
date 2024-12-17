@@ -1,8 +1,10 @@
 <img src="img/Sin título.png" >
 
 <h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="justify">A passionate Programmer from Sri lanka</h3>
+<p align="justify">I always wanted my work to stand out and make my ideas a reality through something, then I learned to code! Hi there! 
+    My name is Daniel White and I'm a systems engineer with more than 7 years of experience in the field of information technology. Additionally, I'm a Scrum Master and Product Owner.<br>
+PS: I'm passionate about traveling and German beer.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -19,6 +21,15 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 
 
