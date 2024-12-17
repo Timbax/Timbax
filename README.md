@@ -12,7 +12,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,js,react,jquery,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=vue,js,react,jquery,bootstrap,tailwind" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <br><br>
 
-<img src="img/line.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Activity:</h3>
 
