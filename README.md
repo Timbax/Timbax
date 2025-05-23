@@ -56,30 +56,9 @@
    
 </div>
 
-<div align="center">
-   
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Timbax&theme=dark&hide_border=false" /> 
-
-</div>
-
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="theme=dark&bg_color=011627&author_color=ffeb95">HOLA MUNDO.<br>
-   daniel
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-<div align=center>
-  
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timbax&theme=github_dark)
-  
-</div>
 <br><br>
 
