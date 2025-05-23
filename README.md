@@ -66,7 +66,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Github Profile Summary Card:</h3>
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="theme=dark&bg_color=011627&author_color=ffeb95">HOLA MUNDO.<br>
+   daniel
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 <div align=center>
   
