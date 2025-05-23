@@ -51,7 +51,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax\&theme=midnight-purple)
 
 </div>
 
