@@ -50,10 +50,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
+   
    ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax\&theme=midnight-purple)
-</div>
-<div align="center">
-   https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false
+   
 </div>
 
 <br><br>
