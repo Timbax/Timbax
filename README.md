@@ -53,7 +53,10 @@
    
    ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax&theme=chartreuse-dark)
    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Timbax&theme=chartreuse-dark&hide_border=false" /> 
-   <img  align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timbax&theme=highcontrast" />
+   
+   <div align="center">
+   	<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timbax&theme=highcontrast" />
+   </div>
    
 </div>
 
@@ -63,7 +66,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_save_json_to_mysql&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
