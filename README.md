@@ -66,10 +66,10 @@
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img height="20" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_save_json_to_mysql&theme=chartreuse-dark" alt="GitHub Stats" />
+      		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_save_json_to_mysql&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img height="20" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_transform_csv&theme=chartreuse-dark" alt="GitHub Stats" />
+      		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_transform_csv&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
