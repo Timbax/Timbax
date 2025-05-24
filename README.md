@@ -53,7 +53,7 @@
    
    ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax&theme=chartreuse-dark)
    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Timbax&theme=chartreuse-dark&hide_border=false" /> 
-   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timbax&theme=merko" />
+   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Timbax&theme=highcontrast" />
    
 </div>
 
