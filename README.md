@@ -51,8 +51,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
    
-   ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax&theme=midnight-purple)
-   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Timbax&theme=midnight-purple&hide_border=false" /> 
+   ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timbax&theme=chartreuse-dark)
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Timbax&theme=chartreuse-dark&hide_border=false" /> 
    
 </div>
 
