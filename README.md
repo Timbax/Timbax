@@ -68,8 +68,8 @@
 	<a href="https://github.com/Timbax/read_and_save_json_to_mysql">
       		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_save_json_to_mysql&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Timbax/read_and_transform_csv">
-      		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=read_and_transform_csv&theme=chartreuse-dark" alt="GitHub Stats" />
+	<a href="https://github.com/Timbax/heavyDataManagement">
+      		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=heavyDataManagement&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
