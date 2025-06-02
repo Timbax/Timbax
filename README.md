@@ -72,7 +72,7 @@
       		<img height="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=heavyDataManagement&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Timbax/app_to_generate_random_words">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=app_to_generate_random_words&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Timbax&repo=app_to_generate_random_words&theme=chartreuse-dark" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
